@@ -1,4 +1,5 @@
-# rasta-2022-AI-minigames
+# AI-Minigames-2022
+
 ## Password Game
 [manual](https://editor.p5js.org/AlieNiT/full/DTFXjG_6a)
 
