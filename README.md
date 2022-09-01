@@ -19,3 +19,5 @@
 [game2](https://editor.p5js.org/AlieNiT/full/ZOuVmvZDU)
 
 [genetic](https://editor.p5js.org/AlieNiT/full/2Imp6rVk7)
+
+[inversion mutation](https://editor.p5js.org/AlieNiT/full/FWN2X7Byz)
