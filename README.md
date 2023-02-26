@@ -40,7 +40,7 @@ In this part, students are faced with the famous [8 queens puzzle](https://en.wi
 
 Students first tried the original problem in the link above.
 
-###[brute force](https://editor.p5js.org/AlieNiT/full/IUsd3uHc6)
+### [brute force](https://editor.p5js.org/AlieNiT/full/IUsd3uHc6)
 
 Just like the first game, students could see a brute force algorithm in action. This algorithm is also very slow for large(>4) sizes of the chessboard.
 
