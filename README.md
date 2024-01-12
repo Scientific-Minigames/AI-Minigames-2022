@@ -5,7 +5,9 @@
 One of the workshops in [Rasta Summer School 2022](https://summerschool.rastaiha.ir/) was named Artificial Intelligence and its content was mostly about evolutionary algorithms, In particular, genetic algorithms. Students learned about the core concepts of a genetic algorithm. Concepts like population, natural selection, mutation, crossover and fitness.
 
 
+
 The following games are implemented with the help of a library called [P5JS](https://p5js.org/) and are intended to help students get intuition about the concepts of genetic algorithms.
+
 
 
 ## Password Game
