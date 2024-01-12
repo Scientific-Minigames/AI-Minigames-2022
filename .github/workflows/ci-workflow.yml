@@ -18,4 +18,6 @@ jobs:
         with:
           node-version: "21.x"
       - run: npm install
+      - run: git config --global user.email "you@example.com"
+      - run: git config --global user.name "Your Name"
       - run: npm run deploy
